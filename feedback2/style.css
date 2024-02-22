@@ -1,0 +1,53 @@
+/* fonts? */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+/* header */
+
+.container.mt-3 .text-spacing .text-center {
+    line-height: 0pt;
+}
+
+.container.mt-3 .text-center h4 {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size:  12pt;
+}
+.container.mt-3 .text-center h5 {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size:  18pt;
+}
+
+.container.mt-3 .text-center h6  {
+    font-family: "Cinzel", serif;
+    font-size: 10pt;
+    font-optical-sizing: auto;
+    font-style: bold;
+} 
+
+.container.mt-3 .text-center p  {
+    font-family: "Tahoma", sans-serif;
+    font-size: 10pt;
+    font-optical-sizing: auto;
+} 
+
+
+/* likert scale table */
+.table-responsive {
+    margin:  0 auto; /* Center the table on the page */
+  }
+  .table thead th {
+    background-color: #f8f9fa; /* Light gray background for the header */
+    text-align: center; /* Center the text in the header */
+  }
+  .table tbody td {
+    text-align: center; /* Center the text in the body cells */
+  }
+  .table tbody tr:nth-child(odd) {
+    background-color: #e9ecef; /* Gray background for odd rows */
+  }
+  .table tbody tr:nth-child(even) {
+    background-color: #ffffff; /* White background for even rows */
+  }
+  .table tbody td:first-child {
+    text-align: left; /* Align text in the first column to the left */
+  }
