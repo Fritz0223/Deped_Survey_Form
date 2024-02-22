@@ -1,0 +1,212 @@
+<div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col"></th>
+                <th scope="col">Strongly Agree</th>
+                <th scope="col">Agree</th>
+                <th scope="col">Neutral</th>
+                <th scope="col">Disagree</th>
+                <th scope="col">Strongly Disagree</th>
+                <th scope="col">Not Applicable</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>SQD0. I am satisfied with the service that I availed.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <!-- Additional rows can be added here -->
+              <tr>
+                <td>SQD1. I spent a resonable amount of time for my transaction.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD2. The office followed the transaction's requirements and steps based on the information provided.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD3. The steps (including payment) I needed to do for my transaction were easy and simple.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD4. I easily found information about my transaction from the office or its website.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD5. I paid a reasonable amount of fees for my transaction.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD6. I feel the office was fair to everyone, or "walang palakasan", during my transaction.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD7. I was treated corteously by the staff and (if asked for help) the staff was helpful.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
+
+              <tr>
+                <td>SQD8. I got what I needed from the government office, or (if denied) denial of request was sufficiently explained to me.</td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_agree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_neutral">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_strong_disagree">
+                </td>
+                <td>
+                  <input type="radio" name="likert_sqd0" value="sqd0_na">
+                </td>
+              </tr>
