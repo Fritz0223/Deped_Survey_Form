@@ -1,0 +1,19 @@
+ .table-responsive {
+    margin:  0 auto; /* Center the table on the page */
+  }
+  .table thead th {
+    background-color: #f8f9fa; /* Light gray background for the header */
+    text-align: center; /* Center the text in the header */
+  }
+  .table tbody td {
+    text-align: center; /* Center the text in the body cells */
+  }
+  .table tbody tr:nth-child(odd) {
+    background-color: #e9ecef; /* Gray background for odd rows */
+  }
+  .table tbody tr:nth-child(even) {
+    background-color: #ffffff; /* White background for even rows */
+  }
+  .table tbody td:first-child {
+    text-align: left; /* Align text in the first column to the left */
+  }
