@@ -7,17 +7,18 @@
 
 body {
   font-family: Arial, sans-serif;
+  font-size:  13pt;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
 }
 
 form {
-  max-width: 1450px;
+  max-width: 1350px;
   margin: 100px auto;
   background-color: #fff;
-  border: 1px solid #ccc;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 0 140px rgba(11, 0, 110, 0.1);
 }
 
 .imgcenter {
@@ -31,25 +32,34 @@ form {
     line-height: 0pt;
 }
 
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
 .container.mt-3 .text-center h4 {
     font-family: "UnifrakturMaguntia", cursive;
-    font-size:  12pt;
+    font-size:  15pt;
 }
+
 .container.mt-3 .text-center h5 {
     font-family: "UnifrakturMaguntia", cursive;
-    font-size:  18pt;
+    font-size:  23pt;
 }
 
 .container.mt-3 .text-center h6  {
     font-family: "Cinzel", serif;
-    font-size: 10pt;
+    font-size: 12pt;
     font-optical-sizing: auto;
     font-style: bold;
 } 
 
 .container.mt-3 .text-center p  {
-    font-family: "Tahoma", sans-serif;
-    font-size: 10pt;
+    font-family: "Ta2oma", sans-serif;
+    font-size: 12pt;
     font-optical-sizing: auto;
 } 
 
